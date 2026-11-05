@@ -202,3 +202,10 @@ mtk-mmdvfs-v3-start.ko
 haptic.ko
 haptic_sfdc.ko
 noth_leds.ko
+sc8541_charger.ko
+upm6720_charger.ko
+nu2115_charger.ko
+sgm41606S_charger.ko
+bootinfo.ko
+touchpanel_event_notify.ko
+focaltech_tp.ko
